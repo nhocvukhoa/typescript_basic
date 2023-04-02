@@ -5,3 +5,4 @@
 5. Type Inference - Tự động gán type
 6. Number type
 7. String type
+8. Object type
