@@ -8,3 +8,4 @@
 8. Object type
 9. Boolean type
 10. Array type
+11. Tuple type
