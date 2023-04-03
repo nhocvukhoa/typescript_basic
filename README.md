@@ -7,3 +7,4 @@
 7. String type
 8. Object type
 9. Boolean type
+10. Array type
