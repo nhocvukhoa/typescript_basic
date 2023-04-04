@@ -15,3 +15,4 @@
 15. Never type
 16. Union type
 17. Aliases type
+18. If else
