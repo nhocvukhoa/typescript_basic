@@ -13,3 +13,4 @@
 13. Any type
 14. Void type
 15. Never type
+16. Union type
