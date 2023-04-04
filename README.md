@@ -10,3 +10,4 @@
 10. Array type
 11. Tuple type
 12. Enum type
+13. Any type
