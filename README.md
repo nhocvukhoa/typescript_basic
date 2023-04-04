@@ -14,3 +14,4 @@
 14. Void type
 15. Never type
 16. Union type
+17. Aliases type
