@@ -17,3 +17,4 @@
 17. Aliases type
 18. If else
 19. Switch case
+20. For loop
