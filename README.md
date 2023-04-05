@@ -19,3 +19,4 @@
 19. Switch case
 20. For loop
 21. While loop
+22. Do while loop
