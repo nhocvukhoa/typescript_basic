@@ -21,3 +21,4 @@
 21. While loop
 22. Do while loop
 23. Break
+24. Continue
